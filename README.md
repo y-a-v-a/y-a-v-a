@@ -1,6 +1,6 @@
 # Yet Another Visual Artist
 
-> Visual artist and self-taught developer | 20 years of coding | Pioneering vibe coding
+> Visual artist and self-taught developer | 20 years of coding | Pioneering vibe coding | Public speaker on AI assisted coding
 
 Visual artist (formally educated) coding since 2005 at the intersection of art, code, and creative technology under moniker [**y-a-v-a.org**](https://www.y-a-v-a.org) (Yet Another Visual Artist). Digital Tech Manager at [G-STAR](https://www.g-star.com).
 
@@ -42,9 +42,9 @@ AI-assisted coding with Claude Code, Codex, and [Aider.chat](https://aider.chat/
 
 ### Technical Work
 
-**Languages:** JavaScript & TypeScript (professional experience), Rust (since 2021), PHP, C++, HTML/CSS
+**Languages:** JavaScript & TypeScript, Rust, PHP, C++, HTML/CSS – or others, with the support of Claude Code
 
-**Focus areas:** Web development, web apps, graphics programming, algorithmic art, protocol art
+**Focus areas:** Web, graphics programming, algorithmic art, protocol art
 
 **Notable projects:**
 - [node-gd](https://github.com/y-a-v-a/node-gd) — GD graphics library bindings for Node.js
@@ -64,4 +64,3 @@ AI-assisted coding with Claude Code, Codex, and [Aider.chat](https://aider.chat/
 - [LinkedIn profile](https://www.linkedin.com/in/vincentbruijn/)
 
 This work is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
-
