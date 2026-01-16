@@ -6,6 +6,36 @@ Visual artist (formally educated) coding since 2005 at the intersection of art, 
 
 Work centers on mathematical challenges, clear visual outcomes, and subverting artistic/technical conventions. "The pixels are the message." Digital impressionism through vibe coding with AI.
 
+---
+
+<a href="https://buymeacoffee.com/y4v4" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 100 100">
+    <!-- Coffee cup -->
+    <path d="M 20 35 L 25 70 Q 25 75 30 75 L 55 75 Q 60 75 60 70 L 65 35 Z"
+          fill="#8B4513" stroke="#654321" stroke-width="2"/>
+    <!-- Cup handle -->
+    <path d="M 65 45 Q 75 45 75 55 Q 75 65 65 65"
+          fill="none" stroke="#654321" stroke-width="2"/>
+    <!-- Coffee -->
+    <ellipse cx="42.5" cy="35" rx="22.5" ry="3" fill="#3E2723"/>
+    <!-- Steam 1 -->
+    <path d="M 32 30 Q 30 25 32 20 Q 34 15 32 10"
+          fill="none" stroke="#999" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+    <!-- Steam 2 -->
+    <path d="M 42 28 Q 40 23 42 18 Q 44 13 42 8"
+          fill="none" stroke="#999" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+    <!-- Steam 3 -->
+    <path d="M 52 30 Q 50 25 52 20 Q 54 15 52 10"
+          fill="none" stroke="#999" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+    <!-- Text -->
+    <text x="50" y="92" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle" font-weight="bold">
+      Buy me a coffee!
+    </text>
+  </svg>
+</a>
+
+---
+
 ### Vibe Coding
 
 AI-assisted coding with Claude Code, Codex, and [Aider.chat](https://aider.chat/) since March 2025. [Presentations here](https://github.com/y-a-v-a/vibe-code-lab-slides).
