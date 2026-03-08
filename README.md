@@ -6,6 +6,10 @@ Visual artist (formally educated) coding since 2005 at the intersection of art, 
 
 Work centers on mathematical challenges, clear visual outcomes, and subverting artistic/technical conventions. "The pixels are the message." Digital impressionism through vibe coding with AI.
 
+### Claude Community Ambassador
+
+[Claude Community Ambassador](https://claude.com/community/ambassadors) since early 2026 — part of Anthropic's global program for builders who bring people together around Claude. Hosting local meetups, connecting developers, and helping others go deeper with Claude Code.
+
 ---
 
 <a href="https://buymeacoffee.com/y4v4" target="_blank">
