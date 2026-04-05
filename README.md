@@ -4,7 +4,7 @@
 
 - [Claude Code](https://www.anthropic.com/product/claude-code) pioneer since March 2025.
 - Experienced Claude Code user
-- Anthropic Claude Code Ambassador since February 2026
+- Anthropic [Claude Community Ambassador](https://claude.com/community/ambassadors) since February 2026
 - Talks and slides in [2025](https://github.com/y-a-v-a/vibe-code-lab-slides)
 - Talks and slides in [2026](https://github.com/y-a-v-a/claude-code-meetup)
 
