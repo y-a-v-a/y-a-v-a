@@ -30,9 +30,9 @@
 ### Digital Artisitic work
 
 - [autoalbers](https://autoalbers.y-a-v-a.org) — Josef Albers homage
-- [Solving Sol](https://github.com/y-a-v-a/solving-sol) — Sol LeWitt wall drawings implemented in code
+- [Solving Sol](https://sol-lewitt.y-a-v-a.org/) — Sol LeWitt wall drawings implemented in code
 - [Mondrianoise](https://github.com/y-a-v-a/mondrianoise) — Perlin noise meets Mondrian
-- [Maleglitch](https://github.com/y-a-v-a/maleglitch) — Image corruption art tool
+- [Maleglitch](https://www.maleglitch.net) — Image corruption art tool
 - More algorithmic art experiments on [y-a-v-a.org](https://y-a-v-a.org)
 - [infrath.in](https://www.infrath.in) — Art and projects with [AX710](https://www.ax710.org)
 
