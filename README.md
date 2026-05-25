@@ -5,8 +5,8 @@
 - [Claude Code](https://www.anthropic.com/product/claude-code) pioneer since March 2025.
 - Experienced Claude Code user
 - Anthropic [Claude Community Ambassador](https://claude.com/community/ambassadors) since February 2026
-- Talks and slides in [2025](https://github.com/y-a-v-a/vibe-code-lab-slides)
-- Talks and slides in [2026](https://github.com/y-a-v-a/claude-code-meetup)
+- Talks and slides on Claude in [2025](https://github.com/y-a-v-a/vibe-code-lab-slides)
+- Talks and slides on Claude in [2026](https://github.com/y-a-v-a/claude-code-meetup)
 
 ## Yet Another Visual Artist
 
@@ -22,6 +22,7 @@
 **Focus areas:** web, e-commerce, graphics programming, algorithmic art, protocol art
 
 **Notable projects:**
+- [/claude-export](https://github.com/y-a-v-a/claude-export) – Claude Code session to HTML exporter
 - [Twain](https://github.com/y-a-v-a/Twain) – The minimalist no-nonsense Markdown reader for MacOS
 - [msaada](https://github.com/y-a-v-a/msaada) — Lightweight local HTTP server built in Rust, a clone of `serve`
 - [node-gd](https://github.com/y-a-v-a/node-gd) — GD graphics library bindings for Node.js
