@@ -1,9 +1,9 @@
-# Public speaker on vibe coding and agentic engineering
+# Public speaker on Claude and AI engineering
 
-### Vibe Coding and Agentic Egineering
+### AI Egineering
 
 - [Claude Code](https://www.anthropic.com/product/claude-code) pioneer since March 2025.
-- Experienced Claude Code user
+- Expert Claude Code user
 - Anthropic [Claude Community Ambassador](https://claude.com/community/ambassadors) since February 2026
 - Talks and slides on Claude in [2025](https://github.com/y-a-v-a/vibe-code-lab-slides)
 - Talks and slides on Claude in [2026](https://github.com/y-a-v-a/claude-code-meetup)
