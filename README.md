@@ -1,48 +1,61 @@
-# Public speaker on Claude and AI engineering
+# Vincent Bruijn
 
-### AI Egineering
+**Anthropic [Claude Community Ambassador](https://claude.com/community/ambassadors)** · Public speaker on Claude and AI engineering · Visual artist coding since 2005
 
-- [Claude Code](https://www.anthropic.com/product/claude-code) pioneer since March 2025.
-- Expert Claude Code user
-- Anthropic [Claude Community Ambassador](https://claude.com/community/ambassadors) since February 2026
-- Talks and slides on Claude in [2025](https://github.com/y-a-v-a/vibe-code-lab-slides)
-- Talks and slides on Claude in [2026](https://github.com/y-a-v-a/claude-code-meetup)
+I help developers get more out of Claude Code — on stage, in workshops, and through open-source skills and tools. Working hands-on with Claude Code since its earliest days in March 2025, now as one of Anthropic's Community Ambassadors. Off-screen I make algorithmic art under the moniker [y-a-v-a.org](https://www.y-a-v-a.org) — *Yet Another Visual Artist*.
 
-## Yet Another Visual Artist
+## 🎤 Talks & speaking
 
-- Visual artist (formally educated) coding since 2005
-- I create at the intersection of art, code, and creative technology
-- moniker: [**y-a-v-a.org**](https://www.y-a-v-a.org), from Yet Another Visual Artist
+Speaking regularly at meetups and companies about AI-assisted engineering and how to work with coding agents effectively.
 
-### Technical Work
+- [claude-code-meetup](https://github.com/y-a-v-a/claude-code-meetup) — slides from my 2026 Claude Code talks
+- [vibe-code-lab-slides](https://github.com/y-a-v-a/vibe-code-lab-slides) — my 2025 talks on AI-assisted coding
 
-- Current role: Digital Tech Manager at [G-STAR](https://www.g-star.com)
-- 20 years of experience in coding
+Interested in a Claude Code talk or workshop for your meetup or team? Reach out via [LinkedIn](https://www.linkedin.com/in/vincentbruijn/).
 
-**Focus areas:** web, e-commerce, graphics programming, algorithmic art, protocol art
+## 🛠️ Claude Code skills & agent tooling
 
-**Notable projects:**
-- [session-export](https://github.com/y-a-v-a/session-export) – Claude Code session to HTML exporter
-- [Twain](https://github.com/y-a-v-a/Twain) – The minimalist no-nonsense Markdown reader for MacOS
-- [msaada](https://github.com/y-a-v-a/msaada) — Lightweight local HTTP server built in Rust, a clone of `serve`
-- [node-gd](https://github.com/y-a-v-a/node-gd) — GD graphics library bindings for Node.js
-- Next to Claude Code, also experienced in Codex and [Pi coding agent](https://shittycodingagent.ai/).
+Open-source skills, plugins, and experiments from daily, intensive Claude Code use:
 
-### Digital Artisitic work
+- [session-export](https://github.com/y-a-v-a/session-export) — export Claude Code sessions to clean, shareable HTML
+- [mand](https://github.com/y-a-v-a/mand) — a skill that teaches your agent to give shorter answers
+- [codex-executor](https://github.com/y-a-v-a/codex-executor) — a Claude Code agent that delegates implementation to OpenAI Codex CLI
+- [claude-code-statusline](https://github.com/y-a-v-a/claude-code-statusline) — my personal Claude Code status line
+- [skills](https://github.com/y-a-v-a/skills) — my growing collection of agent skills
+- [claude-code-custom-commands](https://github.com/y-a-v-a/claude-code-custom-commands) — early experiments with custom slash commands
+- [ralphenv](https://github.com/y-a-v-a/ralphenv) — a container setup for Ralph-style autonomous coding with Claude
 
-- [autoalbers](https://autoalbers.y-a-v-a.org) — Josef Albers homage
-- [Solving Sol](https://sol-lewitt.y-a-v-a.org/) — Sol LeWitt wall drawings implemented in code
-- [Mondrianoise](https://github.com/y-a-v-a/mondrianoise) — Perlin noise meets Mondrian
-- [Maleglitch](https://www.maleglitch.net) — Image corruption art tool
-- More algorithmic art experiments on [y-a-v-a.org](https://y-a-v-a.org)
-- [infrath.in](https://www.infrath.in) — Art and projects with [AX710](https://www.ax710.org)
+Fluent in Claude Code first, but also at home in Codex and [Pi coding agent](https://shittycodingagent.ai/).
 
-### Other Personal
+## 🎨 Creative coding & generative art
 
-- [vincentbruijn.nl](https://www.vincentbruijn.nl/) — Code-focused blog (since 2004)
-- [eigenkunsteerst.org](https://www.eigenkunsteerst.org/) — Artistic ideas blog (since 2005)
-- [LinkedIn profile](https://www.linkedin.com/in/vincentbruijn/)
+Formally educated as a visual artist; making art with code for over twenty years, at the intersection of modernism and the web:
 
-This work is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+- [autoalbers](https://autoalbers.y-a-v-a.org) — a new *Homage to the Square* (Josef Albers) every few seconds
+- [Solving Sol](https://sol-lewitt.y-a-v-a.org/) — Sol LeWitt's wall drawings, implemented in code
+- [mondrianoise](https://github.com/y-a-v-a/mondrianoise) — Perlin noise meets Mondrian
+- [Maleglitch](https://www.maleglitch.net) — new Malevich compositions through glitching
+- [struyckenator](https://github.com/y-a-v-a/struyckenator) — Peter Struycken's algorithmic artworks, rebuilt for the web
+- [qr3k](https://github.com/y-a-v-a/qr3k) — a complete playable game inside a single QR code
 
-<a href="https://buymeacoffee.com/y4v4" target="_blank">Buy me a coffee!</a>
+More at [y-a-v-a.org](https://y-a-v-a.org) and [infrath.in](https://www.infrath.in), a collaboration with [AX710](https://www.ax710.org).
+
+## Engineering background
+
+Twenty years of professional web and e-commerce engineering. Currently Digital Tech Manager at [G-STAR](https://www.g-star.com).
+
+- [node-gd](https://github.com/y-a-v-a/node-gd) — GD graphics library bindings for Node.js (100+ ⭐)
+- [Twain](https://github.com/y-a-v-a/Twain) — minimalist no-nonsense Markdown reader for macOS
+- [msaada](https://github.com/y-a-v-a/msaada) — lightweight local HTTP server in Rust
+
+## Elsewhere
+
+- [vincentbruijn.nl](https://www.vincentbruijn.nl/) — code-focused blog, since 2004
+- [eigenkunsteerst.org](https://www.eigenkunsteerst.org/) — artistic ideas blog, since 2005
+- [LinkedIn](https://www.linkedin.com/in/vincentbruijn/)
+
+---
+
+Found something useful here? A star helps others find it too. Or [buy me a coffee](https://buymeacoffee.com/y4v4).
+
+This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
