@@ -53,6 +53,7 @@ Twenty years of professional web and e-commerce engineering. Currently Digital T
 - [vincentbruijn.nl](https://www.vincentbruijn.nl/) — code-focused blog, since 2004
 - [eigenkunsteerst.org](https://www.eigenkunsteerst.org/) — artistic ideas blog, since 2005
 - [LinkedIn](https://www.linkedin.com/in/vincentbruijn/)
+- [@\_y\_a\_v\_a\_ on X](https://x.com/_y_a_v_a_)
 
 ---
 
