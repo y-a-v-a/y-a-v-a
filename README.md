@@ -4,6 +4,14 @@
 
 I help developers get more out of Claude Code — on stage, in workshops, and through open-source skills and tools. Working hands-on with Claude Code since its earliest days in March 2025, now as one of Anthropic's Community Ambassadors. Off-screen I make algorithmic art under the moniker [y-a-v-a.org](https://www.y-a-v-a.org) — *Yet Another Visual Artist*.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="stats-light.svg">
+  <img alt="Vincent's GitHub at a glance: a Mondrian-style composition of the languages in my public repos, with stats and contributions per year" src="stats-light.svg">
+</picture>
+
+<sub>Redrawn daily by a GitHub Action: every block is a language, sized by how many of my public repos use it. A new composition each day.</sub>
+
 ## 🎤 Talks & speaking
 
 Speaking regularly at meetups and companies about AI-assisted engineering and how to work with coding agents effectively.
