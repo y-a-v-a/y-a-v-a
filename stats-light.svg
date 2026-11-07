@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="520" viewBox="0 0 840 520" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="13px">
-<title>vincent@y-a-v-a: 107 repos, 21 languages, 3,427 contributions</title>
+<title>vincent@y-a-v-a: 107 repos, 21 languages, 3,428 contributions</title>
 <rect x="0.5" y="0.5" width="839" height="519" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <rect x="21.5" y="21.5" width="301" height="301" fill="#1f2328"/>
-<rect x="26.5" y="26.5" width="50.5" height="14.7" fill="#a91e50"><title>EJS: 3 repos</title></rect>
-<rect x="26.5" y="46.2" width="50.5" height="34.3" fill="#9dc3ff"><title>ANTLR: 6 repos</title></rect>
-<rect x="26.5" y="85.5" width="13.5" height="14.7" fill="#878787"><title>Hack: 1 repo</title></rect>
-<rect x="26.5" y="105.1" width="13.5" height="14.7" fill="#a86454"><title>Pug: 1 repo</title></rect>
-<rect x="45" y="85.5" width="32" height="14.7" fill="#427819"><title>Makefile: 2 repos</title></rect>
-<rect x="45" y="105.1" width="13.5" height="14.7" fill="#0298c3"><title>Perl: 1 repo</title></rect>
-<rect x="63.5" y="105.1" width="13.5" height="14.7" fill="#f34b7d"><title>C++: 1 repo</title></rect>
-<rect x="26.5" y="124.8" width="13.5" height="14.7" fill="#0096d8"><title>Processing: 1 repo</title></rect>
-<rect x="45" y="124.8" width="13.5" height="14.7" fill="#101f1f" stroke="#57606a" stroke-width="1"><title>AppleScript: 1 repo</title></rect>
-<rect x="63.5" y="124.8" width="13.5" height="14.7" fill="#2f2530" stroke="#57606a" stroke-width="1"><title>Brainfuck: 1 repo</title></rect>
-<rect x="26.5" y="144.4" width="32" height="14.7" fill="#b07219"><title>Java: 2 repos</title></rect>
-<rect x="26.5" y="164.1" width="32" height="14.7" fill="#3572a5"><title>Python: 2 repos</title></rect>
-<rect x="63.5" y="144.4" width="13.5" height="34.3" fill="#dea584"><title>Rust: 2 repos</title></rect>
-<rect x="82" y="26.5" width="22.8" height="99.8" fill="#3178c6"><title>TypeScript: 8 repos</title></rect>
-<rect x="109.8" y="26.5" width="64.4" height="57.9" fill="#384d54"><title>Dockerfile: 12 repos</title></rect>
-<rect x="109.8" y="89.4" width="64.4" height="36.9" fill="#f05138"><title>Swift: 8 repos</title></rect>
-<rect x="82" y="131.3" width="92.1" height="47.4" fill="#4f5d95"><title>PHP: 14 repos</title></rect>
-<rect x="179.1" y="26.5" width="138.4" height="73.6" fill="#663399"><title>CSS: 31 repos</title></rect>
-<rect x="179.1" y="105.1" width="138.4" height="73.6" fill="#89e051"><title>Shell: 31 repos</title></rect>
-<rect x="26.5" y="183.7" width="160" height="133.8" fill="#f1e05a"><title>JavaScript: 63 repos</title></rect>
-<rect x="191.5" y="183.7" width="126" height="133.8" fill="#e34c26"><title>HTML: 50 repos</title></rect>
+<rect x="26.5" y="26.5" width="133.8" height="126" fill="#e34c26"><title>HTML: 50 repos</title></rect>
+<rect x="26.5" y="157.5" width="133.8" height="160" fill="#f1e05a"><title>JavaScript: 63 repos</title></rect>
+<rect x="165.3" y="26.5" width="152.2" height="66.7" fill="#89e051"><title>Shell: 31 repos</title></rect>
+<rect x="165.3" y="98.2" width="103.3" height="99.1" fill="#663399"><title>CSS: 31 repos</title></rect>
+<rect x="273.6" y="98.2" width="43.9" height="99.1" fill="#4f5d95"><title>PHP: 14 repos</title></rect>
+<rect x="165.3" y="202.3" width="22.2" height="21.7" fill="#427819"><title>Makefile: 2 repos</title></rect>
+<rect x="192.5" y="202.3" width="22.2" height="21.7" fill="#b07219"><title>Java: 2 repos</title></rect>
+<rect x="165.3" y="229" width="18.3" height="10.6" fill="#878787"><title>Hack: 1 repo</title></rect>
+<rect x="165.3" y="244.6" width="18.3" height="10.6" fill="#0298c3"><title>Perl: 1 repo</title></rect>
+<rect x="165.3" y="260.1" width="18.3" height="10.6" fill="#f34b7d"><title>C++: 1 repo</title></rect>
+<rect x="188.6" y="229" width="10.5" height="18.4" fill="#101f1f" stroke="#57606a" stroke-width="1"><title>AppleScript: 1 repo</title></rect>
+<rect x="204.2" y="229" width="10.5" height="18.4" fill="#2f2530" stroke="#57606a" stroke-width="1"><title>Brainfuck: 1 repo</title></rect>
+<rect x="188.6" y="252.4" width="10.5" height="18.4" fill="#a86454"><title>Pug: 1 repo</title></rect>
+<rect x="204.2" y="252.4" width="10.5" height="18.4" fill="#0096d8"><title>Processing: 1 repo</title></rect>
+<rect x="165.3" y="275.7" width="33.9" height="23.1" fill="#a91e50"><title>EJS: 3 repos</title></rect>
+<rect x="165.3" y="303.8" width="33.9" height="13.7" fill="#dea584"><title>Rust: 2 repos</title></rect>
+<rect x="204.2" y="275.7" width="10.5" height="41.8" fill="#3572a5"><title>Python: 2 repos</title></rect>
+<rect x="219.7" y="202.3" width="97.8" height="37.4" fill="#384d54"><title>Dockerfile: 12 repos</title></rect>
+<rect x="219.7" y="244.7" width="32.4" height="72.8" fill="#f05138"><title>Swift: 8 repos</title></rect>
+<rect x="257.1" y="244.7" width="32.4" height="72.8" fill="#3178c6"><title>TypeScript: 8 repos</title></rect>
+<rect x="294.5" y="244.7" width="23" height="72.8" fill="#9dc3ff"><title>ANTLR: 6 repos</title></rect>
 <rect x="24" y="340" width="11" height="11" fill="#f1e05a"/>
 <text x="42" y="350" fill="#24292f">JavaScript</text>
 <text x="160" y="350" fill="#57606a" text-anchor="end">63</text>
@@ -61,17 +61,17 @@
 <text x="312" y="450" fill="#57606a" text-anchor="end">2</text>
 <text x="24" y="474" fill="#57606a" font-size="12px">+9 more · repos per language</text>
 <text x="356" y="40" xml:space="preserve"><tspan fill="#0969da">vincent@y-a-v-a </tspan><tspan fill="#afb8c1">──────────────────────────────────────────</tspan></text>
-<text x="356" y="82" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">............ </tspan><tspan fill="#24292f">16 years, 2 months, 12 days on GitHub</tspan></text>
+<text x="356" y="82" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">............ </tspan><tspan fill="#24292f">16 years, 2 months, 13 days on GitHub</tspan></text>
 <text x="356" y="103" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">................. </tspan><tspan fill="#24292f">visual artist, coding since 2005</tspan></text>
 <text x="356" y="124" xml:space="preserve"><tspan fill="#953800">Shell: </tspan><tspan fill="#afb8c1">............................ </tspan><tspan fill="#24292f">Claude Code, Codex, Pi</tspan></text>
 <text x="356" y="145" xml:space="preserve"><tspan fill="#953800">Role: </tspan><tspan fill="#afb8c1">........................ </tspan><tspan fill="#24292f">Claude Community Ambassador</tspan></text>
 <text x="356" y="166" xml:space="preserve"><tspan fill="#953800">Location: </tspan><tspan fill="#afb8c1">..................................... </tspan><tspan fill="#24292f">Leiden, NL</tspan></text>
 <text x="356" y="208" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">───────────────────────────────────────────</tspan></text>
 <text x="356" y="229" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">....... </tspan><tspan fill="#24292f">107 {+16 forks}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">137</tspan></text>
-<text x="356" y="250" xml:space="preserve"><tspan fill="#953800">Contributions: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">3,427</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">57</tspan></text>
+<text x="356" y="250" xml:space="preserve"><tspan fill="#953800">Contributions: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">3,428</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">57</tspan></text>
 <text x="356" y="271" xml:space="preserve"><tspan fill="#953800">Pull requests: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">202</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Languages: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">21</tspan></text>
 <text x="356" y="292" xml:space="preserve"><tspan fill="#953800">New repos 2026: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">36</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Streak: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">3d {best 43d}</tspan></text>
-<text x="356" y="313" xml:space="preserve"><tspan fill="#953800">Recently pushed: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">andy-hamburger-svg, maleglitch, Twain</tspan></text>
+<text x="356" y="313" xml:space="preserve"><tspan fill="#953800">Recently pushed: </tspan><tspan fill="#afb8c1">....... </tspan><tspan fill="#24292f">struyckenator, andy-hamburger-svg</tspan></text>
 <text x="356" y="355" xml:space="preserve"><tspan fill="#0969da">─ Contributions per year </tspan><tspan fill="#afb8c1">─────────────────────────────────</tspan></text>
 <line x1="356" y1="478" x2="808.4" y2="478" stroke="#d0d7de"/>
 <rect x="361.1" y="477" width="16.5" height="1" fill="#2da44e" rx="1.5"><title>2010: 15 contributions</title></rect>
@@ -87,15 +87,15 @@
 <rect x="574" y="468.6" width="16.5" height="9.4" fill="#2da44e" rx="1.5"><title>2018: 145 contributions</title></rect>
 <text x="582.2" y="498" fill="#57606a" font-size="12px" text-anchor="middle">2018</text>
 <rect x="600.6" y="471.4" width="16.5" height="6.6" fill="#2da44e" rx="1.5"><title>2019: 102 contributions</title></rect>
-<rect x="627.2" y="472.2" width="16.5" height="5.8" fill="#2da44e" rx="1.5"><title>2020: 89 contributions</title></rect>
+<rect x="627.2" y="472.3" width="16.5" height="5.7" fill="#2da44e" rx="1.5"><title>2020: 89 contributions</title></rect>
 <rect x="653.8" y="472.6" width="16.5" height="5.4" fill="#2da44e" rx="1.5"><title>2021: 83 contributions</title></rect>
 <rect x="680.4" y="475.9" width="16.5" height="2.1" fill="#2da44e" rx="1.5"><title>2022: 32 contributions</title></rect>
 <text x="688.6" y="498" fill="#57606a" font-size="12px" text-anchor="middle">2022</text>
 <rect x="707" y="474" width="16.5" height="4" fill="#2da44e" rx="1.5"><title>2023: 62 contributions</title></rect>
 <rect x="733.6" y="477.8" width="16.5" height="0.2" fill="#2da44e" rx="1.5"><title>2024: 3 contributions</title></rect>
-<rect x="760.2" y="446.8" width="16.5" height="31.2" fill="#2da44e" rx="1.5"><title>2025: 482 contributions</title></rect>
-<text x="776.7" y="440.8" fill="#24292f" font-size="12px" text-anchor="end">482</text>
-<rect x="786.8" y="372" width="16.5" height="106" fill="#2da44e" rx="1.5"><title>2026: 1,640 contributions</title></rect>
+<rect x="760.2" y="446.9" width="16.5" height="31.1" fill="#2da44e" rx="1.5"><title>2025: 482 contributions</title></rect>
+<text x="776.7" y="440.9" fill="#24292f" font-size="12px" text-anchor="end">482</text>
+<rect x="786.8" y="372" width="16.5" height="106" fill="#2da44e" rx="1.5"><title>2026: 1,641 contributions</title></rect>
 <text x="795.1" y="498" fill="#57606a" font-size="12px" text-anchor="middle">2026</text>
-<text x="803.3" y="366" fill="#24292f" font-size="12px" text-anchor="end">1,640 so far</text>
+<text x="803.3" y="366" fill="#24292f" font-size="12px" text-anchor="end">1,641 so far</text>
 </svg>
